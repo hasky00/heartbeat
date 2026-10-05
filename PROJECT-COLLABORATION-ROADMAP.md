@@ -52,6 +52,9 @@ Under this model:
   technology, and transparent reporting tools.
 - A registered humanitarian organization or fiscal sponsor receives and
   controls funds.
+- Hasky never receives, holds, routes, manages, approves, or accounts for
+  construction, humanitarian, or beneficiary funds and has no access to the
+  partner's banking or donation systems.
 - A qualified organization with Gaza access leads beneficiary protection,
   procurement, local permissions, logistics, safeguarding, and implementation.
 - Licensed engineers and WASH professionals approve the final design.
@@ -85,9 +88,10 @@ which legal entity, if any, may receive funds and enter contracts.
 
 HEARTBEAT will pursue a partner-led model. Hasky will remain the concept and
 technology contributor and will not represent itself as an NGO, receive or
-control humanitarian donations, select beneficiaries, or implement work in
-Gaza. A registered humanitarian partner must own the operational programme,
-compliance process, funds, local agreements, and implementation decisions.
+control humanitarian donations, manage construction funds, select
+beneficiaries, or implement work in Gaza. A registered humanitarian partner
+must own the operational programme, compliance process, funds, banking,
+procurement, local agreements, and implementation decisions.
 
 The public project identity is **HEARTBEAT Gaza, an independent concept
 initiated by Hasky**. It currently has no separate legal entity or operating
@@ -189,15 +193,22 @@ before fundraising or implementation.
 
 ### Gate 7: Begin Formal Outreach
 
-Priority organizations for an initial technical conversation:
+Use `PARTNER-OUTREACH-PACK.md` for private, non-binding inquiries. Priority
+organizations for the first round are:
 
-1. International Rescue Committee and its Gaza implementation partners.
-2. Mercy Corps and Mercy Corps Ventures.
-3. Save the Children and its emerging-technology team.
-4. UNICEF State of Palestine and UNICEF Innovation for WASH and technical
-   standards.
-5. World Food Programme Building Blocks for humanitarian coordination and
-   accountable digital-assistance experience.
+1. Open Collective Europe Foundation for European humanitarian fiscal hosting.
+2. Global Impact for international fiscal sponsorship and grant administration.
+3. International Rescue Committee and its Gaza implementation partners for
+   technical review and referral.
+4. Mercy Corps and Mercy Corps Ventures for humanitarian and innovation review.
+5. Save the Children for safeguarding and family-shelter review.
+6. Affinity Partners for a private-sector social-impact channel, strategic
+   introductions, or referral to an appropriate philanthropic vehicle. Affinity
+   Partners is a private investment firm, not an NGO or fiscal sponsor.
+
+UNICEF State of Palestine and World Food Programme may be approached later for
+standards or technical guidance if an established partner recommends the
+correct channel.
 
 The first request should be for technical assessment, eligibility guidance,
 and the correct partnership channel. It should not claim endorsement or ask
